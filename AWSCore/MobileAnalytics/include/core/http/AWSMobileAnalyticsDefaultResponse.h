@@ -15,8 +15,8 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsResponse.h"
-#import "../util/AWSMobileAnalyticsStringUtils.h"
-#import "../AWSMobileAnalyticsSerializerFactory.h"
+#import "AWSMobileAnalyticsStringUtils.h"
+#import "AWSMobileAnalyticsSerializerFactory.h"
 #import "AWSMobileAnalyticsHttpConstants.h"
 
 @interface AWSMobileAnalyticsDefaultResponse : NSObject<AWSMobileAnalyticsResponse>

@@ -15,11 +15,11 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsContext.h"
-#import "http/AWSMobileAnalyticsDefaultHttpClient.h"
-#import "http/AWSMobileAnalyticsSDKInfoInterceptor.h"
-#import "http/AWSMobileAnalyticsLogInterceptor.h"
-#import "http/AWSMobileAnalyticsClientContextInterceptor.h"
-#import "http/AWSMobileAnalyticsInstanceIdInterceptor.h"
+#import "AWSMobileAnalyticsDefaultHttpClient.h"
+#import "AWSMobileAnalyticsSDKInfoInterceptor.h"
+#import "AWSMobileAnalyticsLogInterceptor.h"
+#import "AWSMobileAnalyticsClientContextInterceptor.h"
+#import "AWSMobileAnalyticsInstanceIdInterceptor.h"
 
 @class AWSMobileAnalyticsConfiguration;
 

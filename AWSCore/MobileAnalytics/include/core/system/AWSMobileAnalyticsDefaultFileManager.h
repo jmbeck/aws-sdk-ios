@@ -15,8 +15,8 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsFileManager.h"
-#import "../util/AWSMobileAnalyticsStringUtils.h"
-#import "../util/AWSMobileAnalyticsErrorUtils.h"
+#import "AWSMobileAnalyticsStringUtils.h"
+#import "AWSMobileAnalyticsErrorUtils.h"
 
 
 FOUNDATION_EXPORT NSString * const AWSDefaultFileManagerErrorDomain;

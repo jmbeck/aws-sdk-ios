@@ -14,7 +14,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "../util/AWSMobileAnalyticsStringUtils.h"
+#import "AWSMobileAnalyticsStringUtils.h"
 
 @interface AWSMobileAnalyticsFile : NSObject
 

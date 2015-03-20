@@ -15,7 +15,7 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsConfiguring.h"
-#import "../system/AWSMobileAnalyticsFileManager.h"
+#import "AWSMobileAnalyticsFileManager.h"
 
 @protocol AWSMobileAnalyticsHttpClient;
 @protocol AWSMobileAnalyticsContext;

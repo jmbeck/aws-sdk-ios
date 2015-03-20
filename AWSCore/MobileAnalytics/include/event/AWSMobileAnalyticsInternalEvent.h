@@ -14,8 +14,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "../AWSMobileAnalyticsEvent.h"
-#import "../core/util/AWSMobileAnalyticsDateUtils.h"
+#import "AWSMobileAnalyticsEvent.h"
+#import "AWSMobileAnalyticsDateUtils.h"
 
 @protocol AWSMobileAnalyticsInternalEvent <AWSMobileAnalyticsEvent>
 

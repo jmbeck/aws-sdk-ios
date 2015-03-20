@@ -13,8 +13,8 @@
  * permissions and limitations under the License.
  */
 
-#import "../core/system/AWSMobileAnalyticsFileManager.h"
-#import "../core/system/AWSMobileAnalyticsFile.h"
+#import "AWSMobileAnalyticsFileManager.h"
+#import "AWSMobileAnalyticsFile.h"
 #import "AWSMobileAnalyticsSession.h"
 #import <Foundation/Foundation.h>
 

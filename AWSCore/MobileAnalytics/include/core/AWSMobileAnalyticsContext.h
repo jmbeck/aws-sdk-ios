@@ -14,11 +14,11 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "configuration/AWSMobileAnalyticsConfiguring.h"
-#import "../delivery/AWSMobileAnalyticsDeliveryClient.h"
-#import "http/AWSMobileAnalyticsHttpClient.h"
-#import "util/AWSMobileAnalyticsSDKInfo.h"
-#import "system/AWSMobileAnalyticsSystem.h"
+#import "AWSMobileAnalyticsConfiguring.h"
+#import "AWSMobileAnalyticsDeliveryClient.h"
+#import "AWSMobileAnalyticsHttpClient.h"
+#import "AWSMobileAnalyticsSDKInfo.h"
+#import "AWSMobileAnalyticsSystem.h"
 
 @protocol AZCredentialProvider;
 @protocol AWSMobileAnalyticsClientContext;

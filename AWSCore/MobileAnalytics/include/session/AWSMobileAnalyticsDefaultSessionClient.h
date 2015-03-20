@@ -15,9 +15,9 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsSession.h"
-#import "../event/AWSMobileAnalyticsInternalEventClient.h"
-#import "../core/AWSMobileAnalyticsContext.h"
-#import "../core/configuration/AWSMobileAnalyticsConfigurationKeys.h"
+#import "AWSMobileAnalyticsInternalEventClient.h"
+#import "AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsConfigurationKeys.h"
 #import "AWSMobileAnalyticsSessionClient.h"
 #import "AWSMobileAnalyticsSessionStore.h"
 

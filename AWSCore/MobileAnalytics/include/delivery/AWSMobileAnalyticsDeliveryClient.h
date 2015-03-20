@@ -14,8 +14,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "../event/AWSMobileAnalyticsInternalEvent.h"
-#import "../event/AWSMobileAnalyticsEventObserver.h"
+#import "AWSMobileAnalyticsInternalEvent.h"
+#import "AWSMobileAnalyticsEventObserver.h"
 
 @protocol AWSMobileAnalyticsDeliveryClient <AWSMobileAnalyticsEventObserver>
 -(void) enqueueEventForDelivery:(id<AWSMobileAnalyticsInternalEvent>) event;

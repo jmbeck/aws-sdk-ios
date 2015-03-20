@@ -15,7 +15,7 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsFile.h"
-#import "../AWSMobileAnalyticsSerializerFactory.h"
+#import "AWSMobileAnalyticsSerializerFactory.h"
 
 typedef NSData *(^ AWSDataProcessor)(NSData *, NSError **);
 

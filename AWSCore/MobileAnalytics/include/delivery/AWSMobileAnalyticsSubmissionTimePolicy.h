@@ -15,7 +15,7 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsDeliveryPolicy.h"
-#import "../core/AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsContext.h"
 
 @interface AWSMobileAnalyticsSubmissionTimePolicy : NSObject <AWSMobileAnalyticsDeliveryPolicy>
 

@@ -14,7 +14,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "../core/AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsContext.h"
 
 FOUNDATION_EXPORT NSString *const AWSMobileAnalyticsSessionIDDateFormat;
 FOUNDATION_EXPORT NSString *const AWSMobileAnalyticsSessionIDTimeFormat;

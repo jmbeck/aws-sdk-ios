@@ -14,7 +14,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "../AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsContext.h"
 
 @protocol AWSMobileAnalyticsUniqueIdService <NSObject>
 

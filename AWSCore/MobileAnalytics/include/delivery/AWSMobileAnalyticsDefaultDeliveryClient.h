@@ -15,7 +15,7 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsDeliveryClient.h"
-#import "../core/AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsContext.h"
 #import "AWSMobileAnalyticsDeliveryPolicy.h"
 #import "AWSMobileAnalyticsEventStore.h"
 #import "AWSMobileAnalyticsFileEventStore.h"

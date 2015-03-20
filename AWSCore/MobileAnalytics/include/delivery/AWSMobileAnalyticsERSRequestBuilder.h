@@ -14,8 +14,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "../core/http/AWSMobileAnalyticsRequest.h"
-#import "../core/AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsRequest.h"
+#import "AWSMobileAnalyticsContext.h"
 
 @interface AWSMobileAnalyticsERSRequestBuilder : NSObject
 +(AWSMobileAnalyticsERSRequestBuilder *)builderWithConfiguration:(id<AWSMobileAnalyticsConfiguring>)configuration

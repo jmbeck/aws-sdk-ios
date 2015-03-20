@@ -14,12 +14,12 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "../core/AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsContext.h"
 #import "AWSMobileAnalyticsEventStore.h"
-#import "../core/io/AWSMobileAnalyticsBufferedReader.h"
-#import "../core/io/AWSMobileAnalyticsWriter.h"
-#import "../core/configuration/AWSMobileAnalyticsConfigurationKeys.h"
-#import "../core/util/AWSMobileAnalyticsErrorUtils.h"
+#import "AWSMobileAnalyticsBufferedReader.h"
+#import "AWSMobileAnalyticsWriter.h"
+#import "AWSMobileAnalyticsConfigurationKeys.h"
+#import "AWSMobileAnalyticsErrorUtils.h"
 
 FOUNDATION_EXPORT NSString * const AWSEventsDirectoryName;
 FOUNDATION_EXPORT NSString * const AWSEventsFilename;

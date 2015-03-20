@@ -15,10 +15,10 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsInternalEvent.h"
-#import "../core/util/AWSMobileAnalyticsDateUtils.h"
-#import "../core/util/AWSMobileAnalyticsSDKInfo.h"
-#import "../core/AWSMobileAnalyticsContext.h"
-#import "../core/AWSMobileAnalyticsSerializerFactory.h"
+#import "AWSMobileAnalyticsDateUtils.h"
+#import "AWSMobileAnalyticsSDKInfo.h"
+#import "AWSMobileAnalyticsContext.h"
+#import "AWSMobileAnalyticsSerializerFactory.h"
 
 
 //TODO: Do we want to add the withAttribute?

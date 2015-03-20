@@ -17,10 +17,10 @@
 #import "AWSMobileAnalyticsPreferences.h"
 #import "AWSMobileAnalyticsFile.h"
 #import "AWSMobileAnalyticsFileManager.h"
-#import "../util/AWSMobileAnalyticsStringUtils.h"
-#import "../io/AWSMobileAnalyticsBufferedReader.h"
-#import "../util/AWSMobileAnalyticsErrorUtils.h"
-#import "../AWSMobileAnalyticsSerializerFactory.h"
+#import "AWSMobileAnalyticsStringUtils.h"
+#import "AWSMobileAnalyticsBufferedReader.h"
+#import "AWSMobileAnalyticsErrorUtils.h"
+#import "AWSMobileAnalyticsSerializerFactory.h"
 
 FOUNDATION_EXPORT NSString * const AWSPreferencesFilename;
 

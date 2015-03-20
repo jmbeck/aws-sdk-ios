@@ -15,7 +15,7 @@
 
 #import <Foundation/Foundation.h>
 #import "AWSMobileAnalyticsDefaultInterceptor.h"
-#import "../util/AWSMobileAnalyticsSDKInfo.h"
+#import "AWSMobileAnalyticsSDKInfo.h"
 
 static NSString *const CLIENT_SDK_VERSION_HEADER_NAME = @"x-amzn-ClientSDKVersion";
 
